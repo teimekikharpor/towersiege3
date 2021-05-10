@@ -70,7 +70,7 @@ function draw() {
   noStroke();
         textSize(35)
         fill("white")
-        text("Score  " + score, width750,40)
+        text("Score  " + score, width,750,40)
   //Engine.update(engine);
   //text(mouseX + ',' + mouseY, 10, 15);
   textSize(20);
